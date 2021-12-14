@@ -272,7 +272,7 @@ body {
 	animation: fadeInAnimation ease 1s; 
 	animation-iteration-count: 1; 
 	animation-fill-mode: forwards; 
-	background: linear-gradient(to left, #014872  ,	#D7EDE1);
+	background: linear-gradient(to left, #000428  ,	#004e92);
 	width: 100%;
 	height: 100vh;
 }
